@@ -1,6 +1,6 @@
 # Portfolio
 ## Education
-### Ph.D., Materials Science | University of Vermont (_Jan 2024_)
+### Ph.D., Materials Science | University of Vermont (_January 2024_)
 
 Dissertation: "_Accelerating Theoretical Anharmonic Vibrational Analyses with Machine Learning_"
 
