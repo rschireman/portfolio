@@ -21,12 +21,12 @@ Capstone Thesis: “_Evaluation of Deep Eutectic solvents as extraction media fo
 
 - Designed and implemented automated methodologies to generate and process high-quality datasets from unstructured data on state-of-the-art high-performance computing resources, reducing the time to generate datasets for material property prediction by 75 %.
 
-## Machine Learning Engineer | Engineers for Ukraine
+### Machine Learning Engineer | Engineers for Ukraine
 
 - Implemented automated distillation techniques in computer vision workflows, reducing the need for manual data annotation and streamlining the data preprocessing pipeline.
 - Designed and developed ML models to classify logos and insignias in user-uploaded images, increasing the speed at which accurate information about Russian soldiers/equipment in the area passes from local civilians on the ground to Ukrainian soldiers.
 
-## Veteran Contributor | Lightning AI
+### Veteran Contributor | Lightning AI
 
 - Served as a veteran contributor to PyTorch Lightning with 8 merged PRs deprecating functions/properties and setting up automated tests for the next release version.
 - Developed a feature to allow the evaluation of gradients in inference mode, preventing the copying of tensors, resulting in a 10% increase in inference speed.
