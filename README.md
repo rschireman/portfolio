@@ -40,6 +40,8 @@ Capstone Thesis: “_Evaluation of Deep Eutectic solvents as extraction media fo
 
 - "_VSCF and VCI Analysis of the Anharmonic Coupling of Stretching Vibrations in Ice XI_", ACS Fall Meeting, August 2022  
 
+- "_Utilizing Machine Learning for the Calculation of Vibrational Frequencies of Molecular Crystals_", UVM Student Research Conference 2021, Poster Presentation
+
 -  “_Anharmonicity of Ice-XI with the VSCF and VCI Models_”, UVM Student Research Conference 2020, Poster Presentation
 
 
