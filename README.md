@@ -31,6 +31,10 @@ Capstone Thesis: “_Evaluation of Deep Eutectic solvents as extraction media fo
 
 ## Projects
 
+### PyCRYSTAL23 ([Demo](https://pycrystal23-irahbptihfxaezi4c3qraj.streamlit.app/))
+- Python-based webapp deployed on cloud services automating the generation of CRYSTAL23 input files for materials simulations.
+- Designed and implemented an intuitive user interface and MongoDB database, streamlining the input parameter process and enhancing user experience. 
+
 ## Presentations
 
 
