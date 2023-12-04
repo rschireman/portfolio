@@ -19,7 +19,7 @@ Capstone Thesis: “_Evaluation of Deep Eutectic solvents as extraction media fo
 - Created compelling and informative data visualizations to effectively communicate complex insights and trends to diverse audiences, resulting in enhanced understanding and informed decision-making.
 - Designed and implemented automated methodologies to generate and process high-quality datasets from unstructured data on state-of-the-art high-performance computing resources, reducing the time to generate datasets for material property prediction by 75 %.
 
-### Machine Learning Engineer | Engineers for Ukraine
+### Machine Learning Engineer | [Engineers for Ukraine](https://e4ua.org/)
 
 - Implemented automated distillation techniques in computer vision workflows, reducing the need for manual data annotation and streamlining the data preprocessing pipeline.
 - Designed and developed ML models to classify logos and insignias in user-uploaded images, increasing the speed at which accurate information about Russian soldiers/equipment in the area passes from local civilians on the ground to Ukrainian soldiers.
