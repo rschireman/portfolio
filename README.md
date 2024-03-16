@@ -1,6 +1,6 @@
 # Portfolio
 ## Education
-### Ph.D., Materials Science | University of Vermont (_January 2024_)
+### Ph.D., Materials Science | University of Vermont (_April 2024_)
 
 Dissertation: "_Accelerating Theoretical Anharmonic Vibrational Analyses with Machine Learning_"
 
@@ -12,16 +12,21 @@ Capstone Thesis: “_Evaluation of Deep Eutectic solvents as extraction media fo
 
 ### Graduate Research Assistant | University of Vermont
 
-- Led research efforts in applying machine learning methods to simulate solid material properties using neural network potentials (NNPs), leading to a 100x reduction in the prediction time of desired material properties.
-- Applied advanced Graph Convolutional Neural Networks (GCNs) expertise to revolutionize computational chemistry, driving automated data distillation processes for efficient data handling and annotation reduction.
-- Utilized distributed training strategies to scale model training across multiple GPUs on HPC clusters, allowing for rapid prototyping and reducing training time to production by 20 %.
-- Presented results/findings at technical conferences and furnished several publications highlighting the application of techniques to simulate material properties.
-- Created compelling and informative data visualizations to effectively communicate complex insights and trends to diverse audiences, resulting in enhanced understanding and informed decision-making.
-- Designed and implemented automated methodologies to generate and process high-quality datasets from unstructured data on state-of-the-art high-performance computing resources, reducing the time to generate datasets for material property prediction by 75 %.
+- Developed and implemented predictive machine learning models to accurately predict vibrational properties of
+molecular crystals 100x faster than quantum-mechanical methods, enabling real-time design feedback.
+- Leveraged Python programming skills to automate routine tasks and enhance efficiency of research processes,
+reducing the time to generate datasets for material property prediction by 75 %.
+- Utilized HPC resources to perform complex molecular dynamics simulations and quantum chemistry calculations,
+significantly accelerating research timelines and enhancing accuracy in predicting chemical behaviors.
+- Designed and implemented various hyperparameter optimization strategies to streamline data analysis processes in
+advanced academic research.
+- Presented results/findings at technical conferences and furnished several publications highlighting the application of
+techniques to simulate material properties.
+- Contributed to documentation for the Vermont Advanced Computing Core (VACC), facilitating the use of Intel's oneAPI.
+- Utilized distributed training strategies to scale model training across many GPUs on clusters to rapidly train and prototype models
 
 ### Machine Learning Engineer | [Engineers for Ukraine](https://e4ua.org/)
 
-- Implemented automated distillation techniques in computer vision workflows, reducing the need for manual data annotation and streamlining the data preprocessing pipeline.
 - Designed and developed ML models to classify logos and insignias in user-uploaded images, increasing the speed at which accurate information about Russian soldiers/equipment in the area passes from local civilians on the ground to Ukrainian soldiers.
 
 ### Veteran Contributor | Lightning AI
@@ -50,3 +55,12 @@ Capstone Thesis: “_Evaluation of Deep Eutectic solvents as extraction media fo
 
 
 ## Publications
+
+- Rama Oktavian, Raymond Schireman, Lawson T. Glasby, Guanming Huang, Federica Zanca, David
+Fairen-Jimenez, Michael T. Ruggiero, and Peyman Z. Moghadam. Computational Characterization of
+Zr-Oxide MOFs for Adsorption Applications. _ACS Applied Materials & Interfaces_, 14(51):56938–56947,
+2022
+
+- Raymond Schireman, Jefferson Maul, Alessandro Erba, and Michael T. Ruggiero. Anharmonic Coupling
+of Stretching Vibrations in Ice: A Periodic VSCF and VCI Description. _Journal of Chemical Theory and
+Computation_, 18(7):4428–4437, 2022  
