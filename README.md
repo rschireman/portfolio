@@ -1,6 +1,6 @@
 # Portfolio
 ## Education
-### Ph.D., Materials Science | University of Vermont (_April 2024_)
+### Ph.D., Materials Science | University of Vermont (_July 2024_)
 
 Dissertation: "_Accelerating Theoretical Anharmonic Vibrational Analyses with Machine Learning_"
 
@@ -38,7 +38,7 @@ techniques to simulate material properties.
 
 ### PyCRYSTAL23 ([Demo](https://pycrystal23-irahbptihfxaezi4c3qraj.streamlit.app/))
 - Python-based webapp deployed on cloud services automating the generation of CRYSTAL23 input files for materials simulations.
-- Designed and implemented an intuitive user interface and MongoDB database, streamlining the input parameter process and enhancing user experience. 
+- Designed and implemented an intuitive user interface and hosted PostgreSQL database, streamlining the input parameter process and enhancing user experience. 
 
 ## Presentations
 
