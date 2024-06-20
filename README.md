@@ -40,8 +40,8 @@ techniques to simulate material properties.
 - Python-based webapp deployed on cloud services automating the generation of CRYSTAL23 input files for materials simulations.
 - Designed and implemented an intuitive user interface and hosted PostgreSQL database, streamlining the input parameter process and enhancing user experience.
 
-### ChemQuery ([Github](https://github.com/rschireman/ChemQuery/tree/main)
-- RAG demo running gemma-7b-it completely locally on an RTX 3070 to answer questions about the CRYSTAL23 manual.
+### ChemQuery ([Github](https://github.com/rschireman/ChemQuery/tree/main))
+- RAG demo running Gemma-7b-it completely locally on an RTX 3070 to answer questions about the CRYSTAL23 manual.
 
 
 ## Presentations
