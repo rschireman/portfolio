@@ -10,6 +10,13 @@ Capstone Thesis: “_Evaluation of Deep Eutectic solvents as extraction media fo
 
 ## Experience
 
+### Data Analyst | ATI Materials
+
+-	Automated production part reporting with Python, reducing reporting time by 80 % and increasing accuracy, enabling faster decision-making, and improving overall operational efficiency.
+-	Designed and implemented data pipelines to integrate and process data from multiple sources, enhancing data accessibility for analytics.
+-	Collaborated with cross-functional teams to translate business requirements into data models, driving successful project outcomes.
+-	Developed comprehensive reports and dashboards that facilitated informed decision-making among stakeholders, promoting a data-driven culture.
+
 ### Graduate Research Assistant | University of Vermont
 
 - Developed and implemented predictive machine learning models to accurately predict vibrational properties of
