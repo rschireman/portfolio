@@ -32,6 +32,8 @@ techniques to simulate material properties.
 - Contributed to documentation for the Vermont Advanced Computing Core (VACC), facilitating the use of Intel's oneAPI.
 - Utilized distributed training strategies to scale model training across many GPUs on clusters to rapidly train and prototype models
 
+## Community Involvement
+
 ### Machine Learning Engineer | [Engineers for Ukraine](https://e4ua.org/)
 
 - Designed and developed ML models to classify logos and insignias in user-uploaded images, increasing the speed at which accurate information about Russian soldiers/equipment in the area passes from local civilians on the ground to Ukrainian soldiers.
